@@ -1,2 +1,3 @@
 *para agregar expresiones dentro de etiquetas se usa {} con javascript
 #para separar elementos que estan juntos de una api, se usa .join("tu separador") con javascript
+#para agregar mas de un className se usa <img className={`${styles.col} ${styles.movieImage}`}/>
