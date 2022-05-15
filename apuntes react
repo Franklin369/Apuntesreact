@@ -1,1 +1,2 @@
 *para agregar expresiones dentro de etiquetas se usa {} con javascript
+#para separar elementos que estan juntos de una api, se usa .join("tu separador") con javascript
